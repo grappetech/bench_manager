@@ -1,0 +1,45 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2021-08-05 22:18:54.666348",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "settings",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Gestor",
+ "links": [],
+ "modified": "2021-08-05 22:24:56.940749",
+ "modified_by": "Administrator",
+ "module": "Bench Manager",
+ "name": "Gestor",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 1,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Configura\u00e7\u00f5es",
+   "link_to": "Bench Settings",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Inst\u00e2ncias",
+   "link_to": "Site",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Atividades",
+   "link_to": "Bench Manager Command",
+   "type": "DocType"
+  }
+ ],
+ "shortcuts_label": "Opera\u00e7\u00f5es"
+}
